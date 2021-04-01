@@ -100,7 +100,7 @@
                  "value":"http:\/\/stream.streamaudio.de:8000\/teststream1"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -124,7 +124,7 @@
          "name":"Disco-Bottom",
          "opacity":0.5,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -162,7 +162,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"tilesets_deviant_milkian_1.png",
+         "image":"..\/rC3-map\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
