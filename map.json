@@ -100,7 +100,7 @@
                  "value":"http:\/\/stream.streamaudio.de:8000\/teststream1"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -124,7 +124,7 @@
          "name":"Disco-Bottom",
          "opacity":0.5,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
