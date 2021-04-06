@@ -46,7 +46,7 @@
                  "value":".\/map.json#start"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -64,7 +64,7 @@
                  "value":".\/the_matrix_-_phonecall.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -82,7 +82,7 @@
                  "value":".\/drip.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -100,7 +100,7 @@
                  "value":"http:\/\/stream.streamaudio.de:8000\/teststream1"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -139,6 +139,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"olker10"
+                }, 
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -153,7 +158,7 @@
          "name":"bottom2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -165,7 +170,7 @@
          "name":"bottom2-outercollides",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -177,7 +182,7 @@
          "name":"Venue-BBB-floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -189,7 +194,7 @@
          "name":"brains-fields",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -201,7 +206,7 @@
          "name":"Disco-Floor",
          "opacity":0.24,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
